@@ -1,8 +1,8 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MsCrmTools.CurrencyExchangeRates.Properties" GeneratedClassName="Settings">
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CurrencyExchangeRates.Properties" GeneratedClassName="Settings">
   <Profiles />
   <Settings>
-    <Setting Name="MsCrmTools_CurrencyExchangeRates_currencyconvertor_CurrencyConvertor" Type="(Web Service URL)" Scope="Application">
+    <Setting Name="CurrencyExchangeRates_currencyconvertor_CurrencyConvertor" Type="(Web Service URL)" Scope="Application">
       <Value Profile="(Default)">http://www.webservicex.net/currencyconvertor.asmx</Value>
     </Setting>
   </Settings>

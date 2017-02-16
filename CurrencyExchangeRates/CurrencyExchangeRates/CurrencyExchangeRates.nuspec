@@ -1,0 +1,28 @@
+﻿<package>
+  <metadata>
+    <id>CurrencyExchangeRates</id>
+    <version>1.2017.0.1</version>
+    <title>Currency Exchange Rates</title>
+    <authors>Demian Adolfo Raschkovan</authors>
+    <owners></owners>
+    <projectUrl>https://github.com/CurrencyExchangeRates</projectUrl>
+    <iconUrl>http://contoso.com/sweetest.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Solution to update all the Currency Exchange Rates of the CRM</description>
+    <summary>Solution to update all the Currency Exchange Rates of the CRM</summary>
+    <releaseNotes>
+      Solution to update all the Currency Exchange Rates of the CRM.
+
+      1.2017.0.1: First Release
+    </releaseNotes>
+    <copyright></copyright>
+    <tags>XrmToolBox Plugins CurrencyExchangeRates</tags>
+    <dependencies>
+      <dependency id="XrmToolBox" version="1.2016.3.30" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\CurrencyExchangeRates.dll" target="lib\net452\Plugins" />
+    
+  </files>
+</package>
